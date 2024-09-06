@@ -1,0 +1,2 @@
+rootProject.name = 'Muti-module-feign-homework'
+include 'customer-service', 'product-service', 'order-service', 'common'
